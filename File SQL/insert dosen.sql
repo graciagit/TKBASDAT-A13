@@ -1,0 +1,54 @@
+data real
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678901', 'Ahmad Sobari', 'ahmad.sobari', 'ahmadsobari@gmail.com', 'Sekolah Tinggi Komputer', 'SXRSr5tBgk');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678902', 'Monica Agnes', 'monica.agnes', 'monicaagnes@gmail.com', 'Universitas Islam Berjaya', 'Y8bureyovB');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678903', 'Zahra Widiastuti', 'zahra.widiastuti', 'zahrawidiastuti@gmail.com', 'Universitas Islam Berjaya', 'nVlNNkGT8R');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678904', 'Indah Widyatmo', 'indah.widyatmo', 'indahwidyatmo@gmail.com', 'Universitas Islam Berjaya', 'jAkoL8tHQY');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678905', 'Nina Hapari', 'nina.hapari', 'ninahapari@gmail.com', 'Universitas Islam Berjaya', 'EztT0XoVre');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678906', 'Rino Kevin', 'rino.kevin', 'rinokevin@gmail.com', 'Politeknik Negeri Selatan', 't38E5NbAcL');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678907', 'Maria Hilmawan', 'maria.hilmawan', 'mariahilmawan@gmail.com', 'Universitas Alam Semesta', 'ldLjSl6ZM6');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678908', 'Elliza Cansan', 'elliza.cansan', 'ellizacansan@gmail.com', 'Universitas Alam Semesta', 'G9wTPZbrOn');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678909', 'Yessi Naradhipa', 'yessi.naradhipa', 'yessinaradhipa@gmail.com', 'Universitas Alam Semesta', 'tsqpIDhWjr');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678910', 'Rayhan Alvianto', 'rayhan.alvianto', 'rayhanalvianto@gmail.com', 'Universitas Alam Semesta', '8C86BqDrzR');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678911', 'Bunga Damayanti', 'bunga.damayanti', 'bungadamayanti@gmail.com', 'Institut Pertanian Indonesia', 'h2W6VWgLOk');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678912', 'Labaika Anindya', 'labaika.anindya', 'labaikaanindya@gmail.com', 'Institut Pertanian Indonesia', '49qPeLOZ7x');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678913', 'Winda Umam', 'winda.umam', 'windaumam@gmail.com', 'Institut Pertanian Indonesia', '3BabDRNmZV');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678914', 'Hillery Fadhillah', 'hillery.fadhillah', 'hilleryfadhillah@gmail.com', 'Institut Pertanian Indonesia', '6tgbYSlQ0b');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678915', 'Syena Rahayoe', 'syena.rahayoe', 'syenarahayoe@gmail.com', 'Sekolah Tinggi Komputer', 'a3y1jW6V2e');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678916', 'Noor Hanifah', 'noor.hanifah', 'noorhanifah@gmail.com', 'Sekolah Tinggi Komputer', '5UvOPgYeGb');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678917', 'Desca Amrullah', 'desca.amrullah', 'descaamrullah@gmail.com', 'Sekolah Tinggi Komputer', 'jbBiXW7gxR');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678918', 'Cindy Nadiya', 'cindy.nadiya', 'cindynadiya@gmail.com', 'Politeknik Negeri Selatan', 'XlNAINFm0M');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678919', 'Ratih Gardito', 'ratih.gardito', 'ratihgardito@gmail.com', 'Politeknik Negeri Selatan', 'fUSKzYCdYy');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('19500101012345678920', 'Meutia Gultom', 'meutia.gultom', 'meutiagultom@gmail.com', 'Politeknik Negeri Selatan', 'k5Q5QQylIB');
+
+
+data random
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('37531246145434369243', 'Aufa Annisa', 'aufa.annisa', 'aufaannisa@gmail.com', 'Universitas Alam Semesta', 'XNKZbzrccU');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('89248095504223534961', 'Singgih Marlino', 'singgih.marlino', 'singgihmarlino@gmail.com', 'Universitas Alam Semesta', 'Bxh46AcsnS');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('45018292495258668637', 'Aldi Purba', 'aldi.purba', 'aldipurba@gmail.com', 'Universitas Alam Semesta', 'XkusHi5zNM');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('66807884889351134690', 'Rusdi Pemana', 'rusdi.pemana', 'rusdipemana@gmail.com', 'Sekolah Tinggi Komputer', 'ys44yxXXdv');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('89820121423919477017', 'Sumandi Islami', 'sumandi.islami', 'sumandiislami@gmail.com', 'Sekolah Tinggi Komputer', 'DUTNGGcIA2');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('94246835666340985320', 'Abdul Ghani', 'abdul.ghani', 'abdulghani@gmail.com', 'Sekolah Tinggi Komputer', '6MDBIEw4hj');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('27562996811277558290', 'Geraldi Halim', 'geraldi.halim', 'geraldihalim@gmail.com', 'Universitas Islam Berjaya', '59wvMUrzO5');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('46165541224858214755', 'Alvino Aldi', 'alvino.aldi', 'alvinoaldi@gmail.com', 'Universitas Islam Berjaya', 'vngBFw8CnV');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('29234002326554449112', 'Rifat Syahputra', 'rifat.syahputra', 'rifatsyahputra@gmail.com', 'Universitas Islam Berjaya', 'E0LPHcujEe');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('98665150385096910752', 'Bintang Noviyanti', 'bintang.noviyanti', 'bintangnoviyanti@gmail.com', 'Politeknik Negeri Selatan', 'baWNfJjhbH');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('53563271434033988844', 'Maruto Aminullah', 'maruto.aminullah', 'marutoaminullah@gmail.com', 'Politeknik Negeri Selatan', '0vgqHmraxR');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('82046520873685993379', 'Akbar Adha', 'akbar.adha', 'akbaradha@gmail.com', 'Politeknik Negeri Selatan', 'XinxjwTOZI');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('21519672597332230519', 'Mario Hamdi', 'mario.hamdi', 'mariohamdi@gmail.com', 'Universitas Islam Berjaya', 'DRIXkRYaz8');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('25127900180494730660', 'Marza Azalia', 'marza.azalia', 'marzaazalia@gmail.com', 'Politeknik Negeri Selatan', 'aVUGebLCxT');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('84028937902778552924', 'Syahdian Palupi', 'syahdian.palupi', 'syahdianpalupi@gmail.com', 'Sekolah Tinggi Komputer', 'BN6PO5CKjh');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('74655655261110532233', 'Indra Anindita', 'indra.anindita', 'indraanindita@gmail.com', 'Universitas Alam Semesta', '29RQD4dFrS');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('84048391106233948554', 'Anas Prahasti', 'anas.prahasti', 'anasprahasti@gmail.com', 'Institut Pertanian Indonesia', 'gBlimA27QL');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('55161114960613721168', 'Ogie Mulyana', 'ogie.mulyana', 'ogiemulyana@gmail.com', 'Politeknik Negeri Selatan', '5xUxe5cZAt');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('03007160907573906637', 'Vito Syaraswati', 'vito.syaraswati', 'vitosyaraswati@gmail.com', 'Universitas Islam Berjaya', 'GrfQUILzpj');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('39301138473055969164', 'Haikal Sherina', 'haikal.sherina', 'haikalsherina@gmail.com', 'Politeknik Negeri Selatan', '6beVeveKT6');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('29886115458630644256', 'Cakra Indriani', 'cakra.indriani', 'cakraindriani@gmail.com', 'Sekolah Tinggi Komputer', 'f4OaPvIEec');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('95595340566657593587', 'Yandra Herdani', 'yandra.herdani', 'yandraherdani@gmail.com', 'Universitas Alam Semesta', '29AHKLWkXB');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('70757532426205281862', 'Ryan Morinaga', 'ryan.morinaga', 'ryanmorinaga@gmail.com', 'Institut Pertanian Indonesia', 'kLJirTT3PK');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('24377704737631683817', 'Hilman Wildani', 'hilman.wildani', 'hilmanwildani@gmail.com', 'Politeknik Negeri Selatan', 'p489m3vo75');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('72537193644912318417', 'Marsha Aprilicia', 'marsha.aprilicia', 'marshaaprilicia@gmail.com', 'Universitas Islam Berjaya', 'j2ojwL0cVx');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('94600603155931459622', 'Edy Brian', 'edy.brian', 'edybrian@gmail.com', 'Politeknik Negeri Selatan', '3MEhB0ZzCK');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('65072565233703688242', 'Arfan Hermala', 'arfan.hermala', 'arfanhermala@gmail.com', 'Sekolah Tinggi Komputer', 'cJpKKFtdLn');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('96803687090878427357', 'Rendy Hastari', 'rendy.hastari', 'rendyhastari@gmail.com', 'Universitas Alam Semesta', 'B7NHd6vm28');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('10556471084020308122', 'Andika Mufti', 'andika.mufti', 'andikamufti@gmail.com', 'Institut Pertanian Indonesia', 'bn1Bku3wHK');
+INSERT INTO DOSEN (NIP, Nama, Username, Email, Institusi , Password) VALUES ('54137346660916278504', 'Annita Tika', 'annita.tika', 'annitatika@gmail.com', 'Institut Pertanian Indonesia', 'F3jTZWcSMJ');
